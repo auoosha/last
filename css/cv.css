@@ -1,0 +1,28 @@
+.number {
+  text-align: right;
+}
+.personal {
+  color: brown;
+}
+.work {
+  color: brown;
+}
+.key {
+  color: brown;
+}
+.education {
+  color: brown;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.personal {
+  margin: 20px 20px 70px 20px;
+}
+.work _experience {
+  margin: 20px 20px 90px 20px;
+}
+.key {
+  margin: 20px 40px 40px 20px;
+  padding-right: 40px;
+}

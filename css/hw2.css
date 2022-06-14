@@ -1,0 +1,70 @@
+.infor {
+  border-top: 1px solid orange;
+}
+.infora1 {
+  padding: 30px 20px;
+}
+.information {
+  float: right;
+  margin-top: -90px;
+}
+.pp h1 {
+  color: orange;
+}
+.w1 h1 {
+  color: orange;
+}
+.ppp1 {
+  float: right;
+  margin-top: -75px;
+}
+.ppp4 {
+  border-bottom: 1px solid grey;
+}
+.work {
+  border-bottom: 1px solid grey;
+}
+.ss {
+  border-bottom: 1px solid grey;
+}
+.skills h1 {
+  color: orange;
+  float: left;
+  margin-top: -25px;
+  margin-left: -100px;
+
+  text-align: left;
+}
+.ks {
+  float: right;
+  margin-top: -30px;
+}
+.ed {
+  color: orange;
+  margin-left: -100px;
+  padding: -90px;
+  float: right;
+}
+.ed1 {
+  float: left;
+  border-bottom: 1px solid grey;
+  margin-left: -100px;
+  padding: -90px;
+}
+
+.akey {
+  list-style-type: none;
+  margin-bottom: 20px;
+  columns: 3;
+}
+.p {
+  float: right;
+  widows: 72.5%;
+}
+.last {
+  float: right;
+}
+.mid {
+  float: right;
+  margin-top: -65px;
+}

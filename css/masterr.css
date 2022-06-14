@@ -1,0 +1,25 @@
+.one {
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: hotpink;
+  color: beige;
+}
+.two {
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: olive;
+  color: beige;
+}
+.three {
+  width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(138 222 45 / 50%);
+  color: beige;
+}
+.pic1 {
+  background-image: url(cv.png);
+  
+}
